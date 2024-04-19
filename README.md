@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Check Out My Links at [Vhanna](https://vhanna.netlify.app/)</h2>
+<h2 align="center">Check Out My Links at https://vhanna.netlify.app</h2>
 
 ###
 
