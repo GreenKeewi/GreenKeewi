@@ -5,7 +5,6 @@
   <img src="https://profile-counter.glitch.me/GreenKeewi/count.svg?"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=greenkeewi&label=Profile%20views&color=0e75b6&style=flat" alt="greenkeewi" /> </p>
 
 <div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=0DFF33C1&center=true&vCenter=true&random=true&width=435&lines=Open+Source+Developer;Frontend+Developer;Frontend+Engineer;Web+Dev)](https://git.io/typing-svg)
