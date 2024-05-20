@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greenkeewi" alt="greenkeewi" /></a> </p>
 
-- 🔭 I’m currently working on **Scam Net**
+- 🔭 I’m currently working on **Getting a 100 Day Streak of Coding**
 
 - 🌱 I’m currently learning **React, Next JS and Typescript**
 
