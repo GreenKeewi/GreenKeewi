@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/GreenKeewi/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/GreenKeewi/count.svg?"  /> Veiws
 </div>
 
 
