@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GreenKeewi</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A frontend developer from Canada</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/GreenKeewi/count.svg?"  /> Views
