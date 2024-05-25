@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GreenKeewi</h1>
+<h1 align="center">Hi 👋, I'm GreenKeewi or otherwise known as Watre</h1>
 <h3 align="center">A frontend engineer from Canada</h3>
 
 <div align="center">
